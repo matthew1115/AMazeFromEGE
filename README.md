@@ -1,3 +1,4 @@
+#This is a fork for learning the functions. :)
 # 一个简单的迷宫
 这是来自某次（甚至不是我自己的）作业，内容是用EGE生成并解决迷宫。
 因为EGE有的东西用起来并不是很方便，因此我就艹了一些EGE组件类，放在了Draw.h里。
